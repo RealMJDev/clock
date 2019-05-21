@@ -39,7 +39,7 @@ body {
     border-radius: 50% 50% 0% 0%;
     border: 2px solid white;
     border-top: 10px solid royalblue;
-    transform: translateX(-50%) rotate(30deg);
+    transform: translateX(-50%) rotate(0deg);
     transform-origin: bottom center;
 }
 
@@ -53,7 +53,7 @@ body {
     border-radius: 50% 50% 0% 0%;
     border: 2px solid white;
     border-top: 10px solid royalblue;
-    transform: translateX(-50%)  rotate(60deg);
+    transform: translateX(-50%)  rotate(0deg);
     transform-origin: bottom center;
 }
 
@@ -67,7 +67,7 @@ body {
     border-radius: 50% 50% 0% 0%;
     border: 2px solid white;
     border-top: 10px solid red;
-    transform: translateX(-50%) rotate(90deg);
+    transform: translateX(-50%) rotate(0deg);
     transform-origin: bottom center;
 }
 
